@@ -1,0 +1,216 @@
+[00:25:18] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[00:25:20] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[00:25:22] [Worker-Main-4/INFO]: Loaded 7 recipes
+[00:25:28] [main/INFO]: [STDERR]: Warning: the fonts "Times" and "Times" are not available for the Java logical font "Serif", which may have unexpected appearance or behavior. Re-enable the "Times" font to remove this warning.
+[00:25:28] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[00:25:28] [Server thread/INFO]: Loading properties
+[00:25:29] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[00:25:29] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:25:29] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:25:29] [Server thread/INFO]: Debug logging is disabled
+[00:25:29] [Server thread/INFO]: Default game type: SURVIVAL
+[00:25:29] [Server thread/INFO]: Generating keypair
+[00:25:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:25:35] [Server thread/INFO]: Using default channel type
+[00:25:38] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.66
+[00:25:39] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.3.1-b861
+[00:25:39] [Server thread/INFO]: [BedWars] Loading BedWars v0.2.27.1
+[00:25:39] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:25:39] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.66
+[00:25:41] [Server thread/INFO]:         __    
+[00:25:41] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.66
+[00:25:41] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[00:25:41] [Server thread/INFO]: 
+[00:25:41] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[00:25:42] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[00:25:45] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[00:25:46] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[00:25:46] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 7163ms)
+[00:25:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:25:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:25:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:25:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:25:46] [Server thread/INFO]: Preparing level "spawn"
+[00:25:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:25:49] [Server thread/INFO]: Preparing spawn area: 0%
+[00:25:49] [Server thread/INFO]: Preparing spawn area: 0%
+[00:25:49] [Server thread/INFO]: Preparing spawn area: 0%
+[00:25:49] [Server thread/INFO]: Preparing spawn area: 0%
+[00:25:49] [Server thread/INFO]: Preparing spawn area: 0%
+[00:25:50] [Server thread/INFO]: Preparing spawn area: 17%
+[00:25:50] [Server thread/INFO]: Preparing spawn area: 23%
+[00:25:50] [Server thread/INFO]: Time elapsed: 3183 ms
+[00:25:50] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.1-b861
+[00:25:50] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.1-b861" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[00:25:50] [Server thread/INFO]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[00:25:51] [Server thread/INFO]: Preparing start region for dimension minecraft:glacier
+[00:25:52] [Server thread/INFO]: Preparing spawn area: 0%
+[00:25:52] [Server thread/INFO]: Preparing spawn area: 0%
+[00:25:52] [Server thread/INFO]: Preparing spawn area: 0%
+[00:25:53] [Server thread/INFO]: Preparing spawn area: 0%
+[00:25:53] [Server thread/INFO]: Preparing spawn area: 51%
+[00:25:53] [Server thread/INFO]: Time elapsed: 2087 ms
+[00:25:53] [Server thread/INFO]: Preparing start region for dimension minecraft:egghunt
+[00:25:54] [Server thread/INFO]: Preparing spawn area: 0%
+[00:25:54] [Server thread/INFO]: Preparing spawn area: 0%
+[00:25:54] [Server thread/INFO]: Time elapsed: 706 ms
+[00:25:54] [Server thread/INFO]: Preparing start region for dimension minecraft:orchestra
+[00:25:55] [Server thread/INFO]: Time elapsed: 146 ms
+[00:25:55] [Server thread/INFO]: Preparing start region for dimension minecraft:speedway
+[00:25:55] [Server thread/INFO]: Time elapsed: 179 ms
+[00:25:55] [Server thread/INFO]: [Multiverse-Core] 5 - World(s) loaded.
+[00:25:56] [Server thread/WARN]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[00:25:58] [Server thread/INFO]: [Multiverse-Core] Version 4.3.1-b861 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[00:25:58] [Server thread/INFO]: [BedWars] Enabling BedWars v0.2.27.1
+[00:25:58] [Server thread/INFO]: [BedWars] Successfully loaded messages for BedWars! Language: English
+[00:25:58] [Server thread/INFO]: [BedWars] Loading statistics from YAML-File ...
+[00:26:00] [Server thread/INFO]: =====================  by ScreamingSandals <Misat11, Iamceph, Pronze>
+[00:26:00] [Server thread/INFO]: + Screaming BedWars +  Version: 0.2.27.1 FREE
+[00:26:00] [Server thread/INFO]: =====================  STABLE VERSION
+[00:26:00] [Server thread/INFO]: [BW] Arena Speedway loaded!
+[00:26:00] [Server thread/INFO]: Everything is loaded! If you like our work, consider visiting our Patreon! <3
+[00:26:00] [Server thread/INFO]: https://www.patreon.com/screamingsandals
+[00:26:01] [Server thread/INFO]: Starting remote control listener
+[00:26:01] [Server thread/INFO]: Thread RCON Listener started
+[00:26:01] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[00:26:01] [Server thread/INFO]: Running delayed init tasks
+[00:26:01] [Server thread/INFO]: Done (32.693s)! For help, type "help"
+[00:26:01] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[00:26:01] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
+[00:26:01] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
+[00:26:01] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
+[00:26:01] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[00:26:01] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
+[00:26:01] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 16. When Paper for Minecraft 1.17 is
+[00:26:01] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 16 will
+[00:26:01] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
+[00:26:01] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[00:26:01] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 11.0.12
+[00:26:01] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[00:26:01] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
+[00:26:01] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java16
+[00:26:01] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[00:26:01] [Server thread/INFO]: Timings Reset
+[00:26:57] [User Authenticator #1/INFO]: UUID of player NewHupopo is 80c489fa-629c-38b9-b937-8f267509c8ff
+[00:26:57] [Server thread/INFO]: NewHupopo joined the game
+[00:26:58] [Server thread/INFO]: NewHupopo[/127.0.0.1:62434] logged in with entity id 5 at ([spawn]96.5, 67.0, 45.5)
+[00:27:02] [Server thread/WARN]: NewHupopo moved too quickly! 0.0,-31.305632676720776,0.0
+[00:27:04] [Server thread/INFO]: NewHupopo fell out of the world
+[00:27:10] [Server thread/INFO]: NewHupopo fell out of the world
+[00:27:14] [Server thread/INFO]: Made NewHupopo a server operator
+[00:27:20] [Server thread/INFO]: Set NewHupopo's game mode to Creative Mode
+[00:28:08] [Server thread/INFO]: NewHupopo issued server command: /setworldspawn
+[00:28:09] [Server thread/INFO]: [NewHupopo: Set the world spawn point to 106, 68, 35 [0.0]]
+[00:28:11] [Server thread/INFO]: NewHupopo issued server command: /spawnpoint
+[00:28:11] [Server thread/INFO]: [NewHupopo: Set spawn point to 106, 68, 35 [0.0] in minecraft:overworld for NewHupopo]
+[00:30:15] [Server thread/INFO]: NewHupopo issued server command: /fill ~ ~ ~
+[00:30:30] [Server thread/INFO]: NewHupopo issued server command: /fill 54 64 9
+[00:30:47] [Server thread/INFO]: NewHupopo issued server command: /fill 54 64 9 ~ ~ ~
+[00:30:51] [Server thread/INFO]: NewHupopo issued server command: /fill 54 64 9 ~ ~ ~ air
+[00:30:51] [Server thread/INFO]: [NewHupopo: Successfully filled 1440 blocks]
+[00:32:08] [Server thread/INFO]: NewHupopo issued server command: /mv list
+[00:32:15] [Server thread/INFO]: NewHupopo issued server command: /mv EggHunt
+[00:32:15] [Server thread/WARN]: java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 7
+[00:32:15] [Server thread/WARN]: (?i).*\Egg\Hunt.*
+[00:32:15] [Server thread/WARN]:        ^
+[00:32:15] [Server thread/WARN]: 	at java.base/java.util.regex.Pattern.error(Pattern.java:2027)
+[00:32:15] [Server thread/WARN]: 	at java.base/java.util.regex.Pattern.escape(Pattern.java:2616)
+[00:32:15] [Server thread/WARN]: 	at java.base/java.util.regex.Pattern.atom(Pattern.java:2285)
+[00:32:15] [Server thread/WARN]: 	at java.base/java.util.regex.Pattern.sequence(Pattern.java:2158)
+[00:32:15] [Server thread/WARN]: 	at java.base/java.util.regex.Pattern.expr(Pattern.java:2068)
+[00:32:15] [Server thread/WARN]: 	at java.base/java.util.regex.Pattern.compile(Pattern.java:1782)
+[00:32:15] [Server thread/WARN]: 	at java.base/java.util.regex.Pattern.<init>(Pattern.java:1428)
+[00:32:15] [Server thread/WARN]: 	at java.base/java.util.regex.Pattern.compile(Pattern.java:1068)
+[00:32:15] [Server thread/WARN]: 	at java.base/java.util.regex.Pattern.matches(Pattern.java:1173)
+[00:32:15] [Server thread/WARN]: 	at java.base/java.lang.String.matches(String.java:2024)
+[00:32:15] [Server thread/WARN]: 	at com.onarandombox.MultiverseCore.commands.HelpCommand.getFilteredItems(HelpCommand.java:47)
+[00:32:15] [Server thread/WARN]: 	at com.onarandombox.MultiverseCore.commands.HelpCommand.runCommand(HelpCommand.java:71)
+[00:32:15] [Server thread/WARN]: 	at com.onarandombox.commandhandler.CommandHandler.checkAndRunCommand(CommandHandler.java:296)
+[00:32:15] [Server thread/WARN]: 	at com.onarandombox.commandhandler.CommandHandler.processFoundCommands(CommandHandler.java:143)
+[00:32:15] [Server thread/WARN]: 	at com.onarandombox.commandhandler.CommandHandler.locateAndRunCommand(CommandHandler.java:93)
+[00:32:15] [Server thread/WARN]: 	at com.onarandombox.MultiverseCore.MultiverseCore.onCommand(MultiverseCore.java:839)
+[00:32:15] [Server thread/WARN]: 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45)
+[00:32:15] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159)
+[00:32:15] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.dispatchCommand(CraftServer.java:826)
+[00:32:15] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.PlayerConnection.handleCommand(PlayerConnection.java:2185)
+[00:32:15] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.PlayerConnection.c(PlayerConnection.java:2000)
+[00:32:15] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.PlayerConnection.a(PlayerConnection.java:1953)
+[00:32:15] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:49)
+[00:32:15] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:7)
+[00:32:15] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.PlayerConnectionUtils.lambda$ensureMainThread$1(PlayerConnectionUtils.java:35)
+[00:32:15] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.TickTask.run(SourceFile:18)
+[00:32:15] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeTask(IAsyncTaskHandler.java:136)
+[00:32:15] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23)
+[00:32:15] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeNext(IAsyncTaskHandler.java:109)
+[00:32:15] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.bb(MinecraftServer.java:1271)
+[00:32:15] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.executeNext(MinecraftServer.java:1264)
+[00:32:15] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.awaitTasks(IAsyncTaskHandler.java:119)
+[00:32:15] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.sleepForTick(MinecraftServer.java:1225)
+[00:32:15] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1139)
+[00:32:15] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291)
+[00:32:15] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[00:32:20] [Server thread/INFO]: NewHupopo issued server command: /mv join EggHunt
+[00:32:26] [Server thread/INFO]: NewHupopo lost connection: Disconnected
+[00:32:26] [Server thread/INFO]: NewHupopo left the game
+[00:32:31] [Server thread/INFO]: Stopping server
+[00:32:31] [AWT-EventQueue-0/WARN]: java.lang.Throwable: Server stopped
+[00:32:31] [AWT-EventQueue-0/WARN]: 	at io.papermc.paper.util.TraceUtil.dumpTraceForThread(TraceUtil.java:16)
+[00:32:31] [AWT-EventQueue-0/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.safeShutdown(MinecraftServer.java:1001)
+[00:32:31] [AWT-EventQueue-0/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.safeShutdown(MinecraftServer.java:995)
+[00:32:31] [AWT-EventQueue-0/WARN]: 	at net.minecraft.server.v1_16_R3.ServerGUI$1.windowClosing(ServerGUI.java:77)
+[00:32:31] [AWT-EventQueue-0/WARN]: 	at java.desktop/java.awt.AWTEventMulticaster.windowClosing(AWTEventMulticaster.java:357)
+[00:32:31] [AWT-EventQueue-0/WARN]: 	at java.desktop/java.awt.AWTEventMulticaster.windowClosing(AWTEventMulticaster.java:357)
+[00:32:31] [AWT-EventQueue-0/WARN]: 	at java.desktop/java.awt.Window.processWindowEvent(Window.java:2078)
+[00:32:31] [AWT-EventQueue-0/WARN]: 	at java.desktop/javax.swing.JFrame.processWindowEvent(JFrame.java:298)
+[00:32:31] [AWT-EventQueue-0/WARN]: 	at java.desktop/java.awt.Window.processEvent(Window.java:2037)
+[00:32:31] [AWT-EventQueue-0/WARN]: 	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5011)
+[00:32:31] [AWT-EventQueue-0/WARN]: 	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+[00:32:31] [AWT-EventQueue-0/WARN]: 	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2772)
+[00:32:31] [AWT-EventQueue-0/WARN]: 	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+[00:32:31] [AWT-EventQueue-0/WARN]: 	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:772)
+[00:32:31] [AWT-EventQueue-0/WARN]: 	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+[00:32:31] [AWT-EventQueue-0/WARN]: 	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
+[00:32:31] [AWT-EventQueue-0/WARN]: 	at java.base/java.security.AccessController.doPrivileged(Native Method)
+[00:32:31] [AWT-EventQueue-0/WARN]: 	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+[00:32:31] [AWT-EventQueue-0/WARN]: 	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+[00:32:31] [AWT-EventQueue-0/WARN]: 	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:745)
+[00:32:31] [AWT-EventQueue-0/WARN]: 	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:743)
+[00:32:31] [AWT-EventQueue-0/WARN]: 	at java.base/java.security.AccessController.doPrivileged(Native Method)
+[00:32:31] [AWT-EventQueue-0/WARN]: 	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+[00:32:31] [AWT-EventQueue-0/WARN]: 	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+[00:32:31] [AWT-EventQueue-0/WARN]: 	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+[00:32:31] [AWT-EventQueue-0/WARN]: 	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+[00:32:31] [AWT-EventQueue-0/WARN]: 	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+[00:32:31] [AWT-EventQueue-0/WARN]: 	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+[00:32:31] [AWT-EventQueue-0/WARN]: 	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+[00:32:31] [AWT-EventQueue-0/WARN]: 	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+[00:32:31] [Server thread/INFO]: [BedWars] Disabling BedWars v0.2.27.1
+[00:32:31] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.1-b861
+[00:32:31] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.66
+[00:32:31] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[00:32:31] [Server thread/INFO]: [LuckPerms] Closing storage...
+[00:32:31] [Server thread/INFO]: [LuckPerms] Goodbye!
+[00:32:31] [Server thread/INFO]: Saving players
+[00:32:31] [Server thread/INFO]: Saving worlds
+[00:32:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[spawn]'/minecraft:overworld
+[00:32:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (spawn): All chunks are saved
+[00:32:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Glacier]'/minecraft:glacier
+[00:32:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (Glacier): All chunks are saved
+[00:32:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[EggHunt]'/minecraft:egghunt
+[00:32:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (EggHunt): All chunks are saved
+[00:32:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Orchestra]'/minecraft:orchestra
+[00:32:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (Orchestra): All chunks are saved
+[00:32:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Speedway]'/minecraft:speedway
+[00:32:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (Speedway): All chunks are saved
+[00:32:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (spawn): All chunks are saved
+[00:32:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (Glacier): All chunks are saved
+[00:32:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (EggHunt): All chunks are saved
+[00:32:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (Orchestra): All chunks are saved
+[00:32:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (Speedway): All chunks are saved
+[00:32:33] [Server thread/INFO]: Flushing Chunk IO
+[00:32:33] [Server thread/INFO]: Closing Thread Pool
+[00:32:33] [Server thread/INFO]: Closing Server
+[00:32:33] [Thread-1/WARN]: java.lang.Throwable: Server stopped
+[00:32:33] [Thread-1/WARN]: 	at io.papermc.paper.util.TraceUtil.dumpTraceForThread(TraceUtil.java:16)
+[00:32:33] [Thread-1/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.safeShutdown(MinecraftServer.java:1001)
+[00:32:33] [Thread-1/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.util.ServerShutdownThread.run(ServerShutdownThread.java:16)
